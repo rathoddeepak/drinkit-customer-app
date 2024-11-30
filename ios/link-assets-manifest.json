@@ -1,0 +1,13 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Omnes Bold.ttf",
+      "sha1": "31fe49a7a24c1f1eeb4f7028874405f97cf93b38"
+    },
+    {
+      "path": "assets/fonts/OmnesArabic-SemiBold.ttf",
+      "sha1": "e99c57563bc52a0c782994ee095a6d1f4e576825"
+    }
+  ]
+}
